@@ -1,0 +1,3 @@
+For creating akernel in jupyter notebook
+==================================
+https://stackoverflow.com/questions/53004311/how-to-add-conda-environment-to-jupyter-lab
